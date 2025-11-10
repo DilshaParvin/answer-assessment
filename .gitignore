@@ -1,0 +1,27 @@
+# Python backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.sqlite3
+
+# Flutter frontend
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# OS junk
+desktop.ini
